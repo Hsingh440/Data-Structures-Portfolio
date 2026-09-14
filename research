@@ -1,1 +1,66 @@
+# Research Project
 
+## Topic
+
+Traffic events and roadway incidents in North Carolina.
+
+## Research Questions
+
+1. What types of traffic events happen most often in North Carolina?
+2. Which counties in North Carolina have the most reported traffic events?
+
+## Key Variables
+
+- County
+- Event Type
+- Event Subtype
+- Severity
+- Roadway Name
+- Start Date
+- Full Closure Status
+
+## Conceptualizing the Variables
+
+- **County:** The North Carolina county where the traffic event occurred.
+- **Event Type:** The general category of the traffic event.
+- **Event Subtype:** The more specific classification of the traffic event.
+- **Severity:** The level of seriousness or impact of the traffic event.
+- **Roadway Name:** The road or highway where the traffic event occurred.
+- **Start Date:** The date and time when the traffic event began.
+- **Full Closure Status:** Whether the traffic event resulted in a complete roadway closure.
+
+## Operationalizing the Variables
+
+- **County:** Measured by the county name recorded for each traffic event.
+- **Event Type:** Measured by the category assigned to each traffic event.
+- **Event Subtype:** Measured by the specific subtype assigned to each event.
+- **Severity:** Measured using the severity level recorded for each event.
+- **Roadway Name:** Measured by the name of the road or highway recorded for each event.
+- **Start Date:** Measured using the recorded date and time when the event started.
+- **Full Closure Status:** Measured as whether the roadway was fully closed during the event.
+
+## Data I Ideally Need
+
+NCDOT traffic event records for North Carolina, including:
+- County
+- Event Type
+- Event Subtype
+- Severity
+- Roadway Name
+- Start Date
+- Full Closure Status
+
+## Data Source
+
+I will use traffic event data from the North Carolina Department of Transportation (NCDOT), specifically the DriveNC traffic events data.
+
+## Possible Visualizations
+
+1. A bar chart showing the number of traffic events by event type.
+2. A map of North Carolina showing the number of traffic events by county.
+
+## Questions I Still Have
+
+- How should I handle duplicate or incomplete traffic event records?
+- What time period should I use for the analysis?
+- How should I handle traffic events with missing information?
