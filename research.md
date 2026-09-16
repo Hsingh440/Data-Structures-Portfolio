@@ -63,7 +63,7 @@ The analysis was completed in Python using pandas, requests, python-dotenv, and 
 
 The Jupyter Notebook containing the code, data preparation, analysis, and visualizations is:
 
-`youtube_video_analysis.ipynb`
+[View the Jupyter Notebook](youtube_video_analysis.ipynb)
 
 The API key is stored in a local `.env` file and is not included in the GitHub repository.
 
