@@ -15,4 +15,5 @@ My goal is to continue building a strong technical foundation while gaining prof
 - [Blog](blog.md)
 - [Projects](projects.md)
 - [Research](research)
+- [Resume](resume.pdf)
 
