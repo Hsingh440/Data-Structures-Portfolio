@@ -16,4 +16,4 @@ My goal is to continue building a strong technical foundation while gaining prof
 - [Projects](projects.md)
 - [Research](research)
 - [Resume](resume.pdf)
-
+- [LinkedIn](https://www.linkedin.com/in/harry11d/)
