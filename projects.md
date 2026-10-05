@@ -18,12 +18,31 @@ YouTube Data API v3
 
 ## Project 2 — NHL Team Performance Analysis
 
-**Research Question:**  
-How can NHL team performance data be used to analyze team standings and predict success?
+**Research Question:**
 
-**Data Source:**  
-NHL API
+Can NHL team performance statistics be used to predict a team's standings points?
+
+**Data Source:**
+
+NHL API using `nhl-api-py`, including historical NHL team/season statistics, standings, and game/schedule data.
+
+**Analysis:**
+
+This project analyzes NHL team performance and uses Linear Regression and Random Forest Regression to predict standings points based on team performance statistics.
+
+**Key Features:**
+
+- Goals for
+- Goals against
+- Goal differential
+- Wins
+- Losses
+- Regulation/overtime losses
+- Shots on goal
+- Power-play %
+- Penalty-kill %
 
 **Project Files:**
 
-- [Jupyter Notebook](project2_nhl.ipynb)
+- Jupyter Notebook
+- Dataset
