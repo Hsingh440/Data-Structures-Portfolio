@@ -24,25 +24,13 @@ Can NHL team performance statistics be used to predict a team's standings points
 
 **Data Source:**
 
-NHL API using `nhl-api-py`, including historical NHL team/season statistics, standings, and game/schedule data.
+NHL API — current NHL standings data retrieved through the NHL Web API using Python `requests`.
 
 **Analysis:**
 
-This project analyzes NHL team performance and uses Linear Regression and Random Forest Regression to predict standings points based on team performance statistics.
-
-**Key Features:**
-
-- Goals for
-- Goals against
-- Goal differential
-- Wins
-- Losses
-- Regulation/overtime losses
-- Shots on goal
-- Power-play %
-- Penalty-kill %
+This project analyzes NHL team performance statistics and their relationship with standings points. The analysis examines wins, losses, overtime losses, goals for, goals against, and goal differential.
 
 **Project Files:**
 
-- Jupyter Notebook
-- Dataset
+- [Jupyter Notebook](project2_nhl.ipynb)
+- [Dataset](nhl_standings.csv)
