@@ -44,6 +44,5 @@ This project analyzes NHL team performance and uses Linear Regression and Random
 
 **Project Files:**
 
-- [Research](research.md)
 - [Jupyter Notebook](project2_nhl.ipynb)
 - [Dataset](nhl_team_performance.csv)
